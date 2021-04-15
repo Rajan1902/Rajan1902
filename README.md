@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajan1902
-- 👀 I’m interested in learning programs
+- 👀 I’m interested in learning programming
 - 🌱 I’m currently learning C++
 
 
