@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajan1902
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning developing applications using flutter and Advanced java as well.
 
 
 <!---
