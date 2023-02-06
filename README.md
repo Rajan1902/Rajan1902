@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajan1902
+- 👋 Hi, I’m Rajan Singh and at night I'm batman 🦇👱. 
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning about everything that my brain can hold.
 
