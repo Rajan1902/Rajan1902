@@ -1,4 +1,4 @@
-### <div align="center">I'm Rajan Singh, a passionate full-stack web developer 👨‍💻 from Gurgaon, India🚀</div>  
+### <div align="center">Hi! I'm Rajan Singh, a passionate full-stack web developer 👨‍💻 from Gurgaon, India🚀</div>  
   
 
 - 🌱 I’m currently persuing my bachelors degree in Computer Science (B.Tech)  
